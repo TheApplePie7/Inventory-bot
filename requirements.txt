@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+google-search-results
+requests
+selenium
+undetected-chromedriver
+webdriver-manager
