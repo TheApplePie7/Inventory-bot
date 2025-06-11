@@ -1,1 +1,3 @@
 run = "pip install -r requirements.txt && python -m inventory_bot.bot"
+
+language = "python3"
