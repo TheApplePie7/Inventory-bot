@@ -1,0 +1,67 @@
+2025-06-09 19:57:53,685 - INFO - Bot logged in as ApplePie's-StockSniper#4997
+2025-06-09 20:21:31,585 - INFO - /inventory by theapplepie7 | SKU: 3700073413, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:21:31,732 - ERROR - Error fetching data for SKU 3700073413: 418 Client Error: I'm a teapot for url: https://www.walmart.com/orchestra/pdp/graphql/ItemByIdBtf/%E2%80%A6/ip/3700073413
+Traceback (most recent call last):
+  File "C:\Users\haydo\OneDrive\Desktop\discord_inventory_bot_v3\inventory_bot\services\walmart.py", line 19, in get_walmart_inventory
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\haydo\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 418 Client Error: I'm a teapot for url: https://www.walmart.com/orchestra/pdp/graphql/ItemByIdBtf/%E2%80%A6/ip/3700073413
+2025-06-09 20:23:08,540 - INFO - /inventory by theapplepie7 | SKU: 163291067, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:23:08,650 - ERROR - Error fetching data for SKU 163291067: 418 Client Error: I'm a teapot for url: https://www.walmart.com/orchestra/pdp/graphql/ItemByIdBtf/%E2%80%A6/ip/163291067
+Traceback (most recent call last):
+  File "C:\Users\haydo\OneDrive\Desktop\discord_inventory_bot_v3\inventory_bot\services\walmart.py", line 19, in get_walmart_inventory
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\haydo\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 418 Client Error: I'm a teapot for url: https://www.walmart.com/orchestra/pdp/graphql/ItemByIdBtf/%E2%80%A6/ip/163291067
+2025-06-09 20:28:04,484 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:28:04,660 - ERROR - Error fetching data for SKU 5226693884: 418 Client Error: I'm a teapot for url: https://www.walmart.com/orchestra/pdp/graphql/ItemByIdBtf/%E2%80%A6/ip/5226693884
+Traceback (most recent call last):
+  File "C:\Users\haydo\OneDrive\Desktop\discord_inventory_bot_v3\inventory_bot\services\walmart.py", line 19, in get_walmart_inventory
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\haydo\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 418 Client Error: I'm a teapot for url: https://www.walmart.com/orchestra/pdp/graphql/ItemByIdBtf/%E2%80%A6/ip/5226693884
+2025-06-09 20:28:51,586 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:28:51,777 - ERROR - Error fetching data for SKU 5226693884: 418 Client Error: I'm a teapot for url: https://www.walmart.com/orchestra/pdp/graphql/ItemByIdBtf/%E2%80%A6/ip/5226693884
+Traceback (most recent call last):
+  File "C:\Users\haydo\OneDrive\Desktop\discord_inventory_bot_v3\inventory_bot\services\walmart.py", line 19, in get_walmart_inventory
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\haydo\AppData\Local\Programs\Python\Python313\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 418 Client Error: I'm a teapot for url: https://www.walmart.com/orchestra/pdp/graphql/ItemByIdBtf/%E2%80%A6/ip/5226693884
+2025-06-09 20:34:26,095 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:36:44,044 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:38:55,587 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:40:51,025 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:45:28,646 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:46:09,686 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:50:55,404 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:55:21,748 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 20:57:47,058 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:01:29,519 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:02:39,887 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:06:04,073 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:07:42,472 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:09:08,005 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:11:07,515 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:12:57,979 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:18:57,695 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:21:42,412 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:26:33,603 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:28:28,234 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:31:18,799 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:33:25,049 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:36:43,455 - INFO - /inventory by theapplepie7 | SKU: 5226693884, ZIP: 43326, Retailer: Walmart, Radius: 25
+2025-06-09 21:36:57,684 - ERROR - Error during inventory fetch: 'stores'
+Traceback (most recent call last):
+  File "C:\Users\haydo\OneDrive\Desktop\discord_inventory_bot_v3\inventory_bot\commands\inventory.py", line 54, in inventory
+    if not data["stores"]:
+           ~~~~^^^^^^^^^^
+KeyError: 'stores'
+2025-06-10 18:29:21,693 - WARNING - Bot disconnected from Discord.
